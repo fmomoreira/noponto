@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- Homepage -->
+<url>
+  <loc>https://www.noponto.com.br/</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<!-- Hospitalar -->
+<url>
+  <loc>https://www.noponto.com.br/hospital-albert-sabin</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Empresarial -->
+<url>
+  <loc>https://www.noponto.com.br/carraro-tower</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/patriani-offices</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/bike-and-fly</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<!-- Condomínios Residenciais -->
+<url>
+  <loc>https://www.noponto.com.br/condominio-san-pietro</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-mirai-atibaia</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-resid-toscana</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-trenza-ideale</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-vertice-carraro</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-trenza-verano</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-jardim-nice-itatiba</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/condominio-bella-morada-itatiba</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Restaurantes -->
+<url>
+  <loc>https://www.noponto.com.br/restaurante-miguelito-centro</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/restaurante-miguelito-estancia</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/restaurante-sabores-do-brasil</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/restaurante-do-tom</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.noponto.com.br/restaurante-emporio-rosa</loc>
+  <lastmod>2024-12-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+</urlset>

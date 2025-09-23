@@ -23,6 +23,33 @@ RewriteRule ^(.*)$ /$1/ [R=301,L]
 # Default DirectoryIndex
 DirectoryIndex index.html
 
+# Security Headers for SEO
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options nosniff
+    Header always set X-Frame-Options DENY
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# Force HTTPS (uncomment when SSL is ready)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Prevent access to sensitive files
+<Files ~ "^\.">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "robots.txt">
+    Allow from all
+</Files>
+
+<Files "sitemap.xml">
+    Allow from all
+</Files>
+
 # Optional: Enable compression for better performance
 <IfModule mod_deflate.c>
     AddOutputFilterByType DEFLATE text/plain

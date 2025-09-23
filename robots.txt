@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.noponto.com.br/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+
+# Allow important directories
+Allow: /assets/
+Allow: /assets/img/
+Allow: /assets/css/
+Allow: /assets/js/
+
+# Block access to sensitive files
+Disallow: /.htaccess
+Disallow: /.git/
+Disallow: /config/
+Disallow: /logs/
